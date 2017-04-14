@@ -9,7 +9,7 @@ Propomos, [nesse vídeo](https://www.youtube.com/watch?v=dc5A64LKCS4&t=1s), a au
 
 
 
-## [Salvando arquivo remotamente no LibreOffice](http://www.alfabech.com/2017/03/salvando-arquivo-remotamente-no.html)
+## Salvando arquivo remotamente no LibreOffice
 
 
 Nesse [vídeo](http://www.alfabech.com/2017/03/salvando-arquivo-remotamente-no.html), como salvar seus arquivos remotamente pelo LibreOffice, utilizando funções nativas do sistema operacional como o ssh, smb e outro protocolos.
